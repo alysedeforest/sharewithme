@@ -1,0 +1,10 @@
+form{
+font-family: 'Raleway', sans-serif;
+font-color: teal;
+word-spacing: 0.3em
+}
+
+body{
+background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/15/55/64/155564cce59aa40b760c34770afd2366.jpg');
+}
+
