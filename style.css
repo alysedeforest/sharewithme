@@ -8,6 +8,13 @@ h1{
 }
 
 
+h2{
+    padding: 10px;
+    margin: 10px;
+    font-color: teal;
+}
+    
+
 body{
 background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/ca/c4/ca/cac4cad507a4de0ec7d6ef09a3a3bc10.jpg');
 }
